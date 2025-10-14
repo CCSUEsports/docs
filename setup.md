@@ -5,9 +5,13 @@ If you need to install / reinstall OBS, please follow this guide.
 1. [Download OBS Studio](https://obsproject.com/download) - Select Windows and select "Download Installer" and install OBS Studio.
 2. Launch OBS Studio 
 - On first run a pop up like the one shown below will appear. Select **Optimize for streaming, recording is secondary** from the list.
-<img src="https://obsproject.com/media/pages/kb/quick-start-guide/0a7db409d3-1674187038/auto-config-wizard-1.png" width="40%">
-- Next, another window will appear, verify the canvas is **1920x1080** and change the FPS to **60**
-<img src="https://github.com/CCSUEsports/documentation/blob/main/Assets/Screenshot_20251014_132230.png?raw=true" width="40%">
-- Next, it will ask you to sign into a streaming service. Select **Twitch** if it is not already selected and sign in using the sign-in information.<!-- add a photo showing the stream selector page -->
+<p align="center">
+    <img src="https://obsproject.com/media/pages/kb/quick-start-guide/0a7db409d3-1674187038/auto-config-wizard-1.png" alt="Description" width="300">
+</p>
+- Next, another window will appear, verify the canvas is <b>1920x1080</b> and change the FPS to <b>60</b>
+<p align="center">
+    <img src="/Assets/Screenshot_20251014_132230.png" alt="Description" width="300">
+</p>
+- Next, it will ask you to sign into a streaming service. Select <b>Twitch</b> if it is not already selected and sign in using the sign-in information.<!-- add a photo showing the stream selector page -->
 - OBS will then run a connection test to Twitch's servers to find the best bitrate. It should select 6,000Kbps.
-- Finish the Auto-Configuration, and head to **[Importing Scene Collections](/import.md)**
+- Finish the Auto-Configuration, and head to <b><a href="/import.md">Importing Scene Collections</a></b>
