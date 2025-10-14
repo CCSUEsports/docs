@@ -13,9 +13,13 @@ If you need to install / reinstall OBS, please follow this guide.
 ![](/Assets/autoconfig2.png)
 
 - Next, it will ask you to sign into a streaming service. Select **Twitch** if it is not already selected and sign in using the sign-in information.
+
 ![](/Assets/autoconfig3.png)
+
 ![](/Assets/autoconfig4.png)
 - OBS will then run a connection test to Twitch's servers to find the best bitrate. It should select 6,000Kbps.
+
 ![](/Assets/autoconfig5.png)
 - Finish the Auto-Configuration by selecting Apply Settings
+
 ![](/Assets/autoconfig6.png)
