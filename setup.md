@@ -23,3 +23,5 @@ If you need to install / reinstall OBS, please follow this guide.
 - Finish the Auto-Configuration by selecting Apply Settings
 
 ![](/Assets/autoconfig6.png)
+
+### [Once finished, import the scene collections.](/import.md)
