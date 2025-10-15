@@ -2,6 +2,9 @@
 ### [Troubleshooting Help](/TS/README.md)
 # Running OBS and Streaming a Game
 
+> [!NOTE]
+> Always check with the Team Captain before streaming a game. We have to get permission from the opposing team to stream before we start.
+
 1. Sign into the LEFT Esports Shoutcasting Computer. This will be the computer we run the stream off of. In the past, we used to use both computers, but this is harder in some cases dealing with audio and microphones for Commentators.
 2. Launch OBS on the computer. You can find it on the desktop or in the search bar.
 3. Once OBS is launched, verify you are on the right Scene Collection for the game being streamed. You can check that information on the title bar of OBS.\
@@ -19,7 +22,7 @@
 > The last step is VERY IMPORTANT and not setting this will cause us to get in trouble with ECAC. Take time to check before every stream that it is set to 180s on ALL games.
 9. Change the Stream name to the team name and who we are facing. Then change the category to the game we are playing. 
 > [!NOTE]
-> If you change the title mid stream, we will need to rename the VOD before sending it to YouTube.\
+> If you change the title mid stream, we will need to rename the VOD before sending it to YouTube.
 10. Hit the **Start Streaming** button. Once that happens, the delay is activly building and the stream is live.
 > [!NOTE]
 > Even through it will take 180 seconds to stream information to Twitch, keep in mind that during those 180 seconds, YOU ARE LIVE. It wont appear on twitch at that second, but it WILL in 180 seconds.
