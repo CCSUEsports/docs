@@ -8,7 +8,7 @@
 ## Select a document below to get started:
 ### [Running OBS and Streaming a Game](/startup.md)
 This will cover 90% of what needs to occur from day to day.
-### [Managing VODS on YouTube Studio](/TS/monitoring.md)
+### [Managing VODS on YouTube Studio](/TS/ytstudio.md)
 Using YouTube Studio to deal with game VODs and streams exported from Twitch.
 #### [Dealing with different OBS problems and errors](/TS/README.md)
 This provides assistance with common errors/problems within OBS and how to deal with them.
