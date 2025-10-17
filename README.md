@@ -19,11 +19,12 @@ This provides assistance with common errors/problems within OBS and how to deal 
 #### [Importing Scene Collections](/import.md)
 ---
 #### Documents completion status:
-[x] Running OBS and Streaming a Game
-[ ] Managing VODs in YouTube Studio
-[x] Dealing with different OBS problems and errors
-[x] Setting up OBS on First Run
-[x] Importing Scene Collections
-[ ] Using a Capture Card
-[ ] Audio Monitoring\
+- [x] Running OBS and Streaming a Game
+- [ ] Managing VODs in YouTube Studio
+- [x] Dealing with different OBS problems and errors
+- [x] Setting up OBS on First Run
+- [x] Importing Scene Collections
+- [ ] Using a Capture Card
+- [ ] Audio Monitoring
+
 More coming soon.
