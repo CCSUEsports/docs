@@ -20,7 +20,7 @@ This provides assistance with common errors/problems within OBS and how to deal 
 ---
 #### Documents completion status:
 - [x] Running OBS and Streaming a Game
-- [ ] Managing VODs in YouTube Studio
+- [x] Managing VODs in YouTube Studio
 - [x] Dealing with different OBS problems and errors
 - [x] Setting up OBS on First Run
 - [x] Importing Scene Collections
