@@ -43,11 +43,13 @@
 ![](/Assets/twitchcd.png)
 16. Head to the "Content" > "Video Producer" tab. 
 ![](/Assets/tcontenttab.png)
-17. If you changed the stream title before starting the stream, you will see that title on the VOD. If you modified it mid-stream, you need to change it, do it now by clicking the Modify button in the 3 dots menu on the VOD.
+17. If you changed the stream title before starting the stream, you will see that title on the VOD. 
+    - If you modified it mid-stream, you need to change it, do it now by clicking the Modify button in the 3 dots menu on the VOD.
 ![](/Assets/tedit.png)
 18. Now that we have verified the title, click the 3 dots menu and click **Export**. 
 ![](/Assets/texport.png)
-19. A menu will pop up with a Title, Description and visibility. It will automatically grab everything from the VOD, but verify the visibility is **Public** (Unless something occured during stream we dont want people to see, then change to **Unlisted**). 
+19. A menu will pop up with a Title, Description and visibility. It will automatically grab everything from the VOD, but verify the visibility is **Public**.
+    - Unless something occured during stream we dont want people to see, then change to **Unlisted**
 20. After that hit the "Start Export" button and it will send the VOD to YouTube. **The export status will not appear on Twitch, [it will only appear on YouTube](/TS/ytstudio.md).**
 ![](/Assets/texport2.png)
 21. Once it is finished, you can close the dashboard and shutdown the computer.
