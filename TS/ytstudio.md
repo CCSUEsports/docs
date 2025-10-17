@@ -6,9 +6,9 @@
 1. Open [YouTube Studio](https://studio.youtube.com).
 2. Swap to the Esports Youtube account.
     - If you are already signed in, head to Step 3.
-    - Head to the profile circle in the top right. Select Switch Account.
+    - Head to the profile circle in the top right. Select Switch Account.\
     ![](/Assets/ytsswitch1.png)
-    - Select the Central Blue Devils Esports account.
+    - Select the Central Blue Devils Esports account.\
     ![](/Assets/ytsswitch2.png)
 3. You are now signed into the YouTube account, you can manage videos from the Conent Tab on the left sidebar.
 ![](/Assets/ytscontent.png)
@@ -32,5 +32,5 @@ Deleting a video may need to happen. If you need to delete a video, navigate to 
 ![](/Assets/ytsdelete.png)
 2. A menu will come up confirming the deletion, check the box and hit "Delete Forever".
 ![](/Assets/ytsdeleteconfirm.png)
-3. A notification will come up saying the video has been deleted.
+3. A notification will come up saying the video has been deleted.\
 ![](/Assets/ytsdeletesucess.png)
