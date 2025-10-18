@@ -26,6 +26,10 @@
 > [!WARNING]
 > The last step is VERY IMPORTANT and not setting this will cause us to get in trouble with ECAC. Take time to check before every stream that it is set to 180s on ALL games.
 9. **Change the Stream name to the team name and who we are facing. Then change the category to the game we are playing.**
+    - Check ECAC below for information on the opposing team:
+        - [Marvel Rivals](https://ecac.gg/competition/2224/team/34388) - Wednesdays
+        - [Rocket League](https://ecac.gg/competition/2216/team/32489) - Thursdays
+        - [League of Legends](https://ecac.gg/competition/2213/team/32561) - Fridays
 > [!NOTE]
 > If you change the title mid stream, we will need to rename the VOD before sending it to YouTube.
 10. Hit the **Start Streaming** button. Once that happens, the delay is activly building and the stream is live.
